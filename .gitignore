@@ -1,0 +1,6 @@
+*.xml
+*.zip
+*.gzip	
+*.gz
+xml/
+BaseXData/
